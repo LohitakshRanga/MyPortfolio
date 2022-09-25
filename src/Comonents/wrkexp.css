@@ -1,0 +1,74 @@
+.card-1 {
+    margin-top: 3rem;
+    /* margin-left: auto; */ 
+    /* width: 250px; */
+    box-shadow: 0 15px 25px rgba(129, 124, 124, 0.2);
+    /* height: 300px; */
+    border-radius: 5px;
+    backdrop-filter: blur(14px);
+    background-color: rgba(255, 255, 255, 0.2);
+    padding: 10px;
+    text-align: center;
+    color: #ECF3F9;
+    
+    
+}
+
+.up{
+    margin-top: 2rem;
+}
+
+.card-a{
+    margin-top: 4rem;
+}
+
+.IInd{
+    margin-bottom: 2rem;
+
+}
+
+.head{
+    margin-top: 1rem;
+    /* margin-bottom: 2rem ; */
+    color: #ECF3F9;
+}
+
+.txt1{
+    color: #ECF3F9;
+    margin-top: 1rem;
+}
+
+.dsbrd{
+    height: 1000px;
+    width: 615px;
+}
+
+.crl{
+    height: 40%;
+    width: 90%;
+}
+
+.prv{
+    margin-left: -15rem;
+}
+
+
+@media only screen and (max-width: 600px) {
+
+    .M-dsbrd{
+        width: 100%;
+    height: 37rem;
+    }
+
+    .M-up{
+        margin-left: 7%;
+    }
+
+    .M-prv{
+        margin-left: 5rem;
+    }
+     
+    .M-nxt{
+        margin-right: -0.4rem;
+    }
+}

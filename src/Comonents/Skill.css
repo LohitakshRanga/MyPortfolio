@@ -1,0 +1,16 @@
+.imag{
+    height: 10rem;
+    width: 10rem;
+    /* margin-left: 2.3rem; */
+    padding-top: 1rem;
+}
+
+.crd-1{
+    margin: 2rem;
+    margin-left: 3rem;
+    display: inline-block;
+}
+.card{
+    border-radius: 15px;
+}
+

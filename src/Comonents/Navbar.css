@@ -1,0 +1,25 @@
+.items{
+    padding-left: 50%;
+    color:black;
+    /* margin-right: 10px; */
+}
+
+.items-2{
+    color: black;
+    font-weight: bold;
+}
+
+.mName{
+    padding-left: 10%;
+    font-size: x-large;
+    font-weight: bolder;
+
+}
+
+@media only screen and (max-width: 600px) {
+
+    .M-itm{
+        text-align: right;
+    }
+}
+

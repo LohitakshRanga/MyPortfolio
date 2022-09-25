@@ -1,0 +1,23 @@
+.abt{
+    color: #f0f8ff;
+     text-align: center;
+     padding-top: 1rem ;
+}
+
+.abt-1{
+    color: #f0f8ff;
+     text-align: left;
+     padding-top: 1rem ;
+}
+
+.Head{
+    color: whitesmoke;
+    text-align: center;
+    padding-top: 12rem;
+}
+
+body{
+    background-image: url("../images/bg-2.jpg");
+    height: 100%;
+    width: 99.9%;
+}
