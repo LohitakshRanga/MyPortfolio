@@ -36,7 +36,7 @@ function WorkExp() {
         <div className="card-a">
           <h4>First</h4>
         </div>
-        <h5 className="head">I made an introductry website of a app called KonnectHo. It was an ordering app, from where you can order any thing from local store who is registered on this app. by using this app they can utilize that time in some other important work which they have to waste in line on that store. This app have some other feature like invoice managment, inquery system,  chat bot, for future we have online payment fature, delivery service and many more. </h5>
+        <h5 className="head">I made an introductry website of an app called KonnectHo. It was an ordering app, from where you can order any thing from local store who is registered on this app. by using this app they can utilize that time in some other important work which they have to waste in line on that store. This app have some other feature like invoice managment, inquery system,  chat-bot, for future we have online payment feature, delivery service and many more. </h5>
 
         <h5 className="txt1"> I made this on React JS by using Html, CSS and JS</h5>
 
