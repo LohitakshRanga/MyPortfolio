@@ -28,6 +28,63 @@ function Skills() {
                     <h4>Skills</h4>
                 </div>
 
+                <div class="card crd-1" style={{ width: "15rem" }}>
+                    <img src={images0} class="card-img-top imag" alt="..." />
+                    <div class="card-body">
+                        <h5 class="card-title">React js</h5>
+                        {/* <p class="card-text">I have good knowledge of adobe photoshop. </p> */}
+                        {/* <a href="..." class="btn btn-primary">Go somewhere</a> */}
+                    </div>
+                </div>
+
+                <div class="card crd-1" style={{ width: "15rem" }}>
+                    <img src={images6} class="card-img-top imag" alt="..." />
+                    <div class="card-body">
+                        <h5 class="card-title">Html</h5>
+                        {/* <p class="card-text">I have good knowledge of adobe photoshop. </p> */}
+                        {/* <a href="#" class="btn btn-dark disabled">Go somewhere</a> */}
+                    </div>
+                </div>
+
+                <div class="card crd-1" style={{ width: "15rem" }}>
+                    <img src={images7} class="card-img-top imag" alt="..." />
+                    <div class="card-body">
+                        <h5 class="card-title">CSS</h5>
+                        {/* <p class="card-text">I have good knowledge of adobe photoshop. </p> */}
+                        {/* <a href="#" class="btn btn-dark disabled">Go somewhere</a> */}
+                    </div>
+                </div>
+
+                <div class="card crd-1" style={{ width: "15rem" }}>
+                    <img src={images8} class="card-img-top imag" alt="..." />
+                    <div class="card-body">
+                        <h5 class="card-title">Bootstrape</h5>
+                        {/* <p class="card-text">I have good knowledge of adobe photoshop. </p> */}
+                        {/* <a href="#" class="btn btn-dark disabled">Go somewhere</a> */}
+                    </div>
+                </div>
+
+                <div class="card crd-1 mar" style={{ width: "15rem" }}>
+                    <img src={images9} class="card-img-top imag" alt="..." />
+                    <div class="card-body">
+                        <h5 class="card-title">Javascript</h5>
+                        {/* <p class="card-text">I have good knowledge of adobe photoshop. </p> */}
+                        {/* <a href="#" class="btn btn-dark disabled">Go somewhere</a> */}
+                    </div>
+                </div>
+
+                <div class="card crd-1" style={{ width: "15rem" }}>
+                    <img src={images11} class="card-img-top imag" alt="..." />
+                    <div class="card-body">
+                        <h5 class="card-title">Core Java</h5>
+                        {/* <p class="card-text">I have good knowledge of adobe photoshop. </p> */}
+                        {/* <a href="#" class="btn btn-dark disabled">Go somewhere</a> */}
+                    </div>
+                </div>
+
+
+
+
                 <div class="card crd-1 mar" style={{ width: "15rem" }}>
                     <img src={images} class="card-img-top imag" alt="..." />
                     <div class="card-body">
@@ -74,59 +131,17 @@ function Skills() {
                     </div>
                 </div>
 
-                <div class="card crd-1" style={{ width: "15rem" }}>
-                    <img src={images6} class="card-img-top imag" alt="..." />
-                    <div class="card-body">
-                        <h5 class="card-title">Html</h5>
-                        {/* <p class="card-text">I have good knowledge of adobe photoshop. </p> */}
-                        {/* <a href="#" class="btn btn-dark disabled">Go somewhere</a> */}
-                    </div>
-                </div>
+                
 
-                <div class="card crd-1" style={{ width: "15rem" }}>
-                    <img src={images7} class="card-img-top imag" alt="..." />
-                    <div class="card-body">
-                        <h5 class="card-title">CSS</h5>
-                        {/* <p class="card-text">I have good knowledge of adobe photoshop. </p> */}
-                        {/* <a href="#" class="btn btn-dark disabled">Go somewhere</a> */}
-                    </div>
-                </div>
+                
 
-                <div class="card crd-1" style={{ width: "15rem" }}>
-                    <img src={images8} class="card-img-top imag" alt="..." />
-                    <div class="card-body">
-                        <h5 class="card-title">Bootstrape</h5>
-                        {/* <p class="card-text">I have good knowledge of adobe photoshop. </p> */}
-                        {/* <a href="#" class="btn btn-dark disabled">Go somewhere</a> */}
-                    </div>
-                </div>
+                
 
-                <div class="card crd-1 mar" style={{ width: "15rem" }}>
-                    <img src={images9} class="card-img-top imag" alt="..." />
-                    <div class="card-body">
-                        <h5 class="card-title">Javascript</h5>
-                        {/* <p class="card-text">I have good knowledge of adobe photoshop. </p> */}
-                        {/* <a href="#" class="btn btn-dark disabled">Go somewhere</a> */}
-                    </div>
-                </div>
+                
 
-                <div class="card crd-1" style={{ width: "15rem" }}>
-                    <img src={images0} class="card-img-top imag" alt="..." />
-                    <div class="card-body">
-                        <h5 class="card-title">React js</h5>
-                        {/* <p class="card-text">I have good knowledge of adobe photoshop. </p> */}
-                        {/* <a href="..." class="btn btn-primary">Go somewhere</a> */}
-                    </div>
-                </div>
+                
 
-                <div class="card crd-1" style={{ width: "15rem" }}>
-                    <img src={images11} class="card-img-top imag" alt="..." />
-                    <div class="card-body">
-                        <h5 class="card-title">Core Java</h5>
-                        {/* <p class="card-text">I have good knowledge of adobe photoshop. </p> */}
-                        {/* <a href="#" class="btn btn-dark disabled">Go somewhere</a> */}
-                    </div>
-                </div>
+                
 
                 <div class="card crd-1" style={{ width: "15rem" }}>
                     <img src={images12} class="card-img-top imag" alt="..." />
