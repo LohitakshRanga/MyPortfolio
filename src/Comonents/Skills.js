@@ -25,7 +25,7 @@ function Skills() {
 
 
                 <div className="card-a">
-                    <h4>About Me</h4>
+                    <h4>Skills</h4>
                 </div>
 
                 <div class="card crd-1 mar" style={{ width: "15rem" }}>

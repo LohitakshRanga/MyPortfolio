@@ -8,7 +8,7 @@ function About() {
         
         <div className="container">
         <div className="card-a">
-                    <h4>Skills</h4>
+                    <h4>About</h4>
                 </div>
             <p className='abt'>
             Hii,  My Name is Lohitaksh Ranga, here is my portfolio in which I mentined my skills and education which i think main objective of this portfolio so know little bit about me,
