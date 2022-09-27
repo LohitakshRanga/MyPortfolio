@@ -1,11 +1,11 @@
 import React from 'react'
 import './wrkexp.css'
-import images from '../images/dunes.png';
-import crsl1 from '../images/src-1.png';
-import crsl2 from '../images/src-2.png';
-import crsl3 from '../images/src-3.png';
-import crsl4 from '../images/src-4.png';
-import dshbrd from '../images/Dashboard.png';
+const images = '/images/dunes.png';
+const crsl1 = '/images/src-1.png';
+const crsl2 = '/images/src-2.png';
+const crsl3 = '/images/src-3.png';
+const crsl4 = '/images/src-4.png';
+const dshbrd = '/images/Dashboard.png';
 
 function WorkExp() {
   return (
