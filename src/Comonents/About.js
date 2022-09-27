@@ -15,7 +15,7 @@ function About() {
             </p>
             <ul>
               <li className='abt-1'>I'm optimistic.</li>
-              <li className='abt-1'>I'm friendly with every people if they are worthy or have high moral otherwise I don't waste my time.</li>
+              <li className='abt-1'>I'm friendly with every people if they are worthy or have high moral.</li>
               <li className='abt-1'>I never broke easily with work pressure if i broke, i wil bounce back very fast.</li>
               <li className='abt-1'>I have  fine catching ability.</li>
               <li className='abt-1'>I feel my strong point are a sense of Honesty and Integrity Persistence and creativity and hard work.</li>
