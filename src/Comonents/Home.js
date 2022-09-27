@@ -1,7 +1,7 @@
 import React from 'react'
 import "./Home.css"
 import { Link } from "react-router-dom";
-// import me from '../'
+import me from '../images/img-1.png'
 
 function Home() {
     return (
@@ -10,7 +10,7 @@ function Home() {
 
                 <div className="row">
                     <div className="container col-md-6 part-1 M-prt1">
-                        <img className='mee M-mee' src="/images/img-1.png"></img>
+                        <img className='mee M-mee' src={me}></img>
                     </div>
                     <div className="container col-md-6 part-2 M-prt2">
                         <div className="container-fluid txt M-txt ">
