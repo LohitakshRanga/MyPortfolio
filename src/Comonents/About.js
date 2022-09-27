@@ -11,7 +11,7 @@ function About() {
                     <h4>About</h4>
                 </div>
             <p className='abt'>
-            Hii,  My Name is Lohitaksh Ranga, here is my portfolio in which I mentined my skills and education which i think main objective of this portfolio so know little bit about me,
+            Hii,  My Name is Lohitaksh Ranga, here is my portfolio in which I  mentioned my skills and education which i think main objective of this portfolio so know little bit about me,
             </p>
             <ul>
               <li className='abt-1'>I'm optimistic.</li>
