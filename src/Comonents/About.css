@@ -16,8 +16,27 @@
     padding-top: 12rem;
 }
 
+.card-a{
+    width: 25%;
+    margin-left: 37%;
+}
+
 body{
-    background-image: url("../images/bg-2.jpg");
+    /* background-image: url("../images/bg-2.jpg"); */
     height: 100%;
     width: 99.9%;
+}
+
+.breakdown{
+    border-bottom: 2px solid white;
+}
+
+/* .mee{
+    margin: 1rem;
+    width: 10px;
+    height: 10px;
+} */
+
+.contact{
+    margin-left: 10%;
 }

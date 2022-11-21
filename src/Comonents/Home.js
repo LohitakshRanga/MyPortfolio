@@ -10,7 +10,7 @@ function Home() {
 
                 <div className="row">
                     <div className="container col-md-6 part-1 M-prt1">
-                        <img className='mee M-mee' src={me}></img>
+                        {/* <img className='mee M-mee' src={me}></img> */}
                     </div>
                     <div className="container col-md-6 part-2 M-prt2">
                         <div className="container-fluid txt M-txt ">

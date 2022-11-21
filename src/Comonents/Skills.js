@@ -76,7 +76,7 @@ function Skills() {
                 <div class="card crd-1" style={{ width: "15rem" }}>
                     <img src={images11} class="card-img-top imag" alt="..." />
                     <div class="card-body">
-                        <h5 class="card-title">Core Java</h5>
+                        <h5 class="card-title">Java</h5>
                         {/* <p class="card-text">I have good knowledge of adobe photoshop. </p> */}
                         {/* <a href="#" class="btn btn-dark disabled">Go somewhere</a> */}
                     </div>
@@ -143,14 +143,14 @@ function Skills() {
 
                 
 
-                <div class="card crd-1" style={{ width: "15rem" }}>
+                {/* <div class="card crd-1" style={{ width: "15rem" }}>
                     <img src={images12} class="card-img-top imag" alt="..." />
                     <div class="card-body">
                         <h5 class="card-title">MS-Office</h5>
                         {/* <p class="card-text">I have good knowledge of adobe photoshop. </p> */}
                         {/* <a href="#" class="btn btn-dark disabled">Go somewhere</a> */}
-                    </div>
-                </div>
+                    {/* </div> */}
+                {/* </div> */} 
                 
                 
             </div>

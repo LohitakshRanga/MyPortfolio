@@ -75,15 +75,15 @@ function WorkExp() {
 
         {/* ////////////////////// Design of KonnectHo App ////////////////// */}
 
-        <div className="card-a">
+        {/* <div className="card-a">
           <h4>Second</h4>
         </div>
 
         <h4 className="head IInd"> Here is design of Dashboard for KonnectHo App Which designed by me. </h4>
 
-        <img src={dshbrd} className="dsbrd M-dsbrd"></img>
+        <img src={dshbrd} className="dsbrd M-dsbrd"></img> */}
 
-
+<div class="card-footer bg-transparent border-success ftr">fgdfggfhghgfhfgh</div>
       </div>
     </>
   )

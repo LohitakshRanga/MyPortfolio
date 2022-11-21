@@ -1,3 +1,5 @@
+
+
 .mee{
     height: 27rem;
     width: 27rem;
@@ -15,8 +17,10 @@
 }
 
 body{
-        background-image: url("../images/bg-2.jpg");
-        height: 100%;
+        background-image: url("../images/back.jpg") ;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        height: 50%;
         width: 99.5%;
 }
 
