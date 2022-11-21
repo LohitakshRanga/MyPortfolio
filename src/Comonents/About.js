@@ -37,7 +37,7 @@ function About() {
      
       <a href="https://www.linkedin.com/in/lohitaksh-ranga-23a1b0202/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BcQ40K5pnSPuKYCh1i3V8YQ%3D%3D" ><img className='mee M-mee' src={link}></img></a>
      
-     <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJNrcxFLTGKHFTqVrqrCTNgSxjbSzxgBqdlkpCBnCZrTdXjpWXRBdzfslZZmRFbNFgCvtFg" ><img className='mee M-mee' src={git}></img></a>
+     <a href="https://github.com/LohitakshRanga" ><img className='mee M-mee' src={git}></img></a>
 
       </div>
 
